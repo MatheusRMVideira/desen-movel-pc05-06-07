@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">P05_06_07</string>
+    <string name="book_title">Book Title</string>
+    <string name="get_book">Get Books</string>
+    <string name="title_label">Title: %s</string>
+    <string name="book_authors">Author: %s</string>
+    <string name="book_page">Page count: %d</string>
+</resources>
